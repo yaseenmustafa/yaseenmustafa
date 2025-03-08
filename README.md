@@ -12,6 +12,11 @@
 
 ## 🚀 Tech Stack  
 
+### *🧠 AI & Machine Learning*  
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
+![LangChain](https://img.shields.io/badge/-LangChain-FF9900?style=for-the-badge&logo=chainlink&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 ### *💻 Programming Languages*  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
