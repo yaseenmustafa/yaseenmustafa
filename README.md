@@ -1,51 +1,84 @@
-## Hi there! I'm *Yaseen Mustafa*, an aspiring AI Chatbot Developer.  👋  
-🔹 Learning Generative AI | Saylani Mass IT Program  
-🔹 Passionate about AI, Automation & Innovation  
-🔹 Exploring GitHub, Python & AI Tools  
-  
-🚀 Let's connect & build something amazing!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yaseen Mustafa - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="https://st2.depositphotos.com/38197074/44228/v/450/depositphotos_442283666-stock-illustration-initial-letter-vector-logo-icon.jpg" type="image/x-icon">
+</head>
+<body>
 
-### Contact Information  
-📧 Email: yaseen.mustafa09@gmail.com  
-📞 Phone: +92-3371412121  
-🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yaseen-mustafa-860262269/))
+    <!-- Header Section -->
+    <header>
+        <img src="images/yaseen.jpg" alt="Yaseen Mustafa" style="width: 90px; height: auto; float: left; margin-right: 5px;">
+        <h1>Yaseen Mustafa</h1>
+        <p>Operation Manager | Cotton Brokerage & Import Specialist</p>
+    </header>
 
-## 🚀 Tech Stack  
+    <!-- Navigation Bar -->
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
 
-### *🧠 AI & Machine Learning*  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
-![LangChain](https://img.shields.io/badge/-LangChain-FF9900?style=for-the-badge&logo=chainlink&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Dedicated professional with extensive experience in cotton brokerage, import operations, 
+        and financial management.</p>
+    </section>
 
-### *💻 Programming Languages*  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+    <!-- Experience Section -->
+    <section id="experience">
+        <h2>Experience</h2>
+        <ul>
+            <li><strong>Operation Manager - Seemco Cotton Brokerage (2022 - Present)</strong><br>Managing accounts, import documents, and client coordination.</li>
+            <li><strong>Accounts Officer - Sales Tax Advocate Firm (1 Year)</strong><br>Maintained financial records and handled sales tax documentation.</li>
+            <li><strong>Field Supervisor - Ryan Agencies Pvt Ltd (1 Year)</strong><br>Supervised logistics and customs clearing.</li>
+            <li><strong>Account Assistant - Zubair Shakoor Cotton Broker (12 Years)</strong><br>Manage accounts, Party Ledgers, Cashbook, and other financial records.</li>
+            <li><strong>Cashier - Ahsan Zubair Cotton Factory (2 Years)</strong><br>Maintained cashbook, prepared daily sales reports, and handled customer payments.</li>
+            <li><strong>Admin Assistant - Ahsan Zubair Cotton Factory (2 Years)</strong><br>Handled office administration, Preparing on daily basic Cotton Arrival Weighbridge, and Gate Arrival Reports.</li>
+            <li><strong>Packaging & Labeling - Capri Glassware (1 Year)</strong><br>Prepared packaging labels, customer invoices, and customer return labels.</li>
+            <li><strong>Sales Man - Capri Glassware (1 Year)</strong><br>Handled customer sales.</li>
+            <li><strong>Own Rashan Store - (1 Year)</strong><br>Managed a small retail store.</li>
+        </ul>
+    </section>
 
-### *🛠️ Frameworks & Libraries*  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+    <!-- Skills Section -->
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Accounts Management</li>
+            <li>Cotton Import & Brokerage</li>
+            <li>Logistics & Clearing</li>
+            <li>Banking & Payments Handling</li>
+            <li>Financial Management</li>
+            <li>Project Management</li>
+            <li>Team Management</li>
+            <li>Gen AI & Chatbot developer (in process) with Saylani Mass IT Program</li>
+        </ul>
+    </section>
 
-### *🛢️ Databases*  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: yaseen.mustafa09@gmail.com</p>
+        <p>Phone: 0337-1412121</p>
+        <p><a href="https://www.linkedin.com/in/yaseen-mustafa-860262269/" target="_blank">LinkedIn</a></p>
+        <p><a href="https://www.facebook.com/Yaseen.Mustafa09/" target="_blank">Facebook</a></p>
+        <p><a href="https://github.com/yaseenmustafa" target="_blank">GitHub</a></p>
 
-### *🤖 AI & Machine Learning*  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
-![LangChain](https://img.shields.io/badge/-LangChain-FF9900?style=for-the-badge&logo=chainlink&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+    </section>
 
-### *☁️ Cloud & DevOps*  
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Yaseen Mustafa. All Rights Reserved.</p>
+    </footer>
 
-### *🔧 Tools & Technologies*  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
----
+</body>
+</html>
