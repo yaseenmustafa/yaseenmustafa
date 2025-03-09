@@ -7,8 +7,7 @@ Hi! I'm **Yaseen Mustafa**, an experienced **Import Manager** and an aspiring **
 
 🔹 **Current Role:** Operation Manager at **Seemco Cotton Brokerage**  
 🔹 **Experience:** 10+ years in Import, Logistics, Finance & Retail  
-🔹 **AI Chatbot Development:** Learning at **Saylani Mass IT Program**  
-🔹 **Hobbies:** Cricket 🏏 | WWE 🤼‍♂️ | Sci-Fi Movies 🎬 | Gaming 🎮  
+🔹 **AI Chatbot Development:** Learning at **Saylani Mass IT Program**
 
 ---
 
@@ -28,17 +27,17 @@ Hi! I'm **Yaseen Mustafa**, an experienced **Import Manager** and an aspiring **
 
 🚀 **AI Chatbot (Gen AI)** - Developing a smart chatbot using OpenAI GPT  
 🌐 **Portfolio Website** - Personal website hosted on GitHub Pages  
-📊 **Cotton Brokerage System** - Financial and import documentation automation  
+📊 **Cotton Brokerage System** - Financial and import documentation   
 
 ---
 
 ## 💼 Work Experience  
 
 - **Seemco Cotton Brokerage** (2022 - Present) - Operation Manager  
-- **Ryan Agencies Pvt Ltd** - Field Supervisor  
+- **Ryan Agencies Pvt Ltd** - Field Supervisor (1 Year) 
 - **Cotton Brokerage** - Office Assistant (6 Years)  
 - **Cotton Factory** - Weighbridge Clerk & Admin (4 Years)  
-- **Capri Glassware (Joria Bazar)** - Salesman  
+- **Capri Glassware (Joria Bazar)** - Salesman  (1 Year)
 - **Own Business** - Rashan Store (1 Year)  
 
 ---
@@ -53,9 +52,9 @@ Hi! I'm **Yaseen Mustafa**, an experienced **Import Manager** and an aspiring **
 
 ## 📬 Contact Me  
 
-📍 **Address:** Karachi, Pakistan  
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-📞 **Phone:** +92-XXX-XXXXXXX  
+📍 **Address:** Office # G-18 Ground Floor Cotton Exchange Building I.I Chundrigar Road, Karachi, Pakistan  
+📧 **Email:** [yaseen.mustafa09@gmail.com](mailto:yaseen.mustafa09@gmail.com)  
+📞 **Phone:** +92-337-1412121 (Whastapp)  
 🔗 **LinkedIn:** [linkedin.com/in/yaseenmustafa](https://linkedin.com/in/yaseenmustafa)  
 💼 **GitHub Portfolio:** [github.com/YaseenMustafa](https://github.com/YaseenMustafa)  
 
