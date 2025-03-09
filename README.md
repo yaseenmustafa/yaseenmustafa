@@ -1,7 +1,5 @@
 # 🚀 Yaseen Mustafa - AI Chatbot Developer & Import Manager  
 
-![Profile Banner](https://your-image-link.com/banner.png)  
-
 ## 👨‍💻 About Me  
 Hi! I'm **Yaseen Mustafa**, an experienced **Import Manager** and an aspiring **AI Chatbot Developer**. With expertise in the **cotton industry** and a deep interest in **Generative AI & Web Development**, I'm continuously evolving my skill set to create innovative solutions.
 
