@@ -25,7 +25,7 @@ I'm **Yaseen Mustafa**, an **Operation Manager** with a strong background in acc
 ### 📫 How to reach me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YaseenMustafa-blue?logo=linkedin)](https://www.linkedin.com/in/yaseen-mustafa-860262269)  
 [![Gmail](https://img.shields.io/badge/Email-YaseenMustafa-red?logo=gmail)](mailto:yaseen.mustafa09@gmail.com) 
-[![Whatsapp](https://img.shields.io/badge/Whastapp-+92-337-1412121-Green?logo=Whatsapp)](+923371412121) 
+[![Whatsapp](https://img.shields.io/badge/Whastapp-@yaseenmustafa-Green?logo=Whatsapp)](+923371412121) 
 
  
 
